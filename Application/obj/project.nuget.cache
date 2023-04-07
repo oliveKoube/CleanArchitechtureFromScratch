@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtboZ6LCXxEspo+mDLw1YsXUmNbz8zH23t+5p7zyq48ikHJkpXI0RFmcEFT9KWJ857Ig45gtmVYWybr92krJHQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive.koube\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\olive.koube\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\olive.koube\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\olive.koube\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\olive.koube\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
