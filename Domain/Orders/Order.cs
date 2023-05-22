@@ -10,6 +10,7 @@ public class Order
     public OrderId Id { get; private set; }
     public CustomerId CustomerId { get; private set; }
 
+    public IReadOnlyList<LineItem> LineItems => _lineItems.ToList();
     private Order()
     {
     }
@@ -28,5 +29,12 @@ public class Order
     {
         var lineItem = new LineItem(new LineItemId(Guid.NewGuid()),Id,productId,price);
         _lineItems.Add(lineItem);
+    }
+
+    public void RemoveLineItem(LineItemId lineItemId)
+    {
+        var lineItem = _lineItems.FirstOrDefault(o => o.Id == lineItemId);
+        if (lineItem is null) return;
+        _lineItems.Remove(lineItem);
     }
 }

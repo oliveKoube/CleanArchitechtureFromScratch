@@ -1,3 +1,3 @@
 ﻿namespace Domain.Orders;
 
-public record LineItemId(Guid value);
+public record LineItemId(Guid Value);

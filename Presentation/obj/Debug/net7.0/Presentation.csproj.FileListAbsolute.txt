@@ -1,0 +1,12 @@
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\bin\Debug\net7.0\Presentation.deps.json
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\bin\Debug\net7.0\Presentation.dll
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\bin\Debug\net7.0\Presentation.pdb
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\Presentation.dll
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\Presentation.pdb
+D:\PROJETS\CleanArchitechtureFromScratch\Presentation\obj\Debug\net7.0\ref\Presentation.dll

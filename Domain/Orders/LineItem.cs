@@ -16,4 +16,9 @@ public class LineItem
         ProductId = productId;
         Price = price;
     }
+
+    public LineItem()
+    {
+
+    }
 }
