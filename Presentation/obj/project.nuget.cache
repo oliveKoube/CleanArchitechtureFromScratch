@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oFJet3y7dKn8s6Jr6Ya79kup7GHp05ZEV2MgtP91arobed6ZngDHmZOPzrRjeLTb5Wsk9V7uoDTFrooPkgb9aQ==",
+  "dgSpecHash": "heEKvCndwWgqb/Ru2pZyPajkVSnU7o3tw/kV5v+V2ONGUDxenbHq4Ji35FHDw++1xRGUMRTVZPOi2uzvVoBq1w==",
   "success": true,
-  "projectFilePath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj",
+  "projectFilePath": "D:\\Projets\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\olive.koube\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -3081,23 +3081,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\olive.koube\\.nuget\\packages\\": {},
+    "C:\\Users\\olive\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\olive.koube\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\obj\\",
+      "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+      "outputPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\olive.koube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3105,18 +3108,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.atlantiss-ci.tech/nuget": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
-              "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj"
+            "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
+              "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj"
             },
-            "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj"
+            "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj"
             }
           }
         }
@@ -3166,7 +3169,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

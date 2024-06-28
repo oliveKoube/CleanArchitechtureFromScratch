@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETS\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj": {}
+    "D:\\Projets\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
+    "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\olive.koube\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\obj\\",
+        "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+        "outputPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\olive.koube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,15 +27,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.atlantiss-ci.tech/nuget": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj"
+              "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,24 +79,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
+    "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\olive.koube\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\obj\\",
+        "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+        "outputPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\olive.koube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,8 +106,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.atlantiss-ci.tech/nuget": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -136,24 +140,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\olive.koube\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+        "outputPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\olive.koube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,18 +167,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.atlantiss-ci.tech/nuget": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
-                "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj"
+              "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
+                "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj"
               },
-              "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj"
+              "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Domain\\Domain.csproj"
               }
             }
           }
@@ -222,24 +228,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PROJETS\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj": {
+    "D:\\Projets\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "D:\\Projets\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj",
-        "packagesPath": "C:\\Users\\olive.koube\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Presentation\\obj\\",
+        "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+        "outputPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\olive.koube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -247,8 +255,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.atlantiss-ci.tech/nuget": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -287,24 +295,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PROJETS\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj": {
+    "D:\\Projets\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETS\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Projets\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\olive.koube\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\WebApi\\obj\\",
+        "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+        "outputPath": "D:\\Projets\\CleanArchitechtureFromScratch\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\olive.koube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -312,21 +322,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.atlantiss-ci.tech/nuget": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
-                "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Application\\Application.csproj"
+              "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj": {
+                "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Application\\Application.csproj"
               },
-              "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Infrastructure\\Infrastructure.csproj"
               },
-              "D:\\PROJETS\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj": {
-                "projectPath": "D:\\PROJETS\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj"
+              "D:\\Projets\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj": {
+                "projectPath": "D:\\Projets\\CleanArchitechtureFromScratch\\Presentation\\Presentation.csproj"
               }
             }
           }
@@ -373,7 +383,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
